@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-GenerateUniqueIDs.pyt
+GenereraUnikaID.pyt
 
 Tilldelar sekventiella ID:n till ett fält i ett vektorlager. Fältet skapas om
 det inte redan finns, annars skrivs befintliga värden över.
@@ -213,7 +213,7 @@ def _row_major_oids(in_layer, oid_field, messages):
 
 class Toolbox:
     def __init__(self):
-        self.label = "Generera unika ID:n"
+        self.label = "Generera unika ID-nummer"
         self.alias = "generera_unika_id"
         self.tools = [GenerateUniqueIDs]
 

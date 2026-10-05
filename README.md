@@ -1,4 +1,4 @@
-# Generate unique numeric IDs
+# Generera unika ID-nummer
 
 ArcGIS Pro Python toolbox that assigns sequential IDs to a field in a vector layer. The field
 is created if it does not already exist; if it does, its values are overwritten.
@@ -17,7 +17,7 @@ coordinate system.
 ## Install
 
 1. Clone or download this repo.
-2. In ArcGIS Pro: Catalog, Toolboxes, Add Toolbox, select `GenerateUniqueIDs.pyt`.
+2. In ArcGIS Pro: Catalog, Toolboxes, Add Toolbox, select `GenereraUnikaID.pyt`.
 3. Open Generera unika ID:n, Generera unika ID:n.
 
 ## The tool dialog
